@@ -3,8 +3,7 @@ This repository contains a collection of files and scripts for analyzing a 12 mo
 
 ### Project Description
 ___
-As part of the Google Data Analytics Certificate, as a junior data analyst, analysis was to be carried out on the last 12 month dataset for the fictional bike-sharing company, Cyclist. The project required to analyze how the annual members and casual riders use Cyclistic bikes differently. Based on the analysis, 
-the goal is to design marketing strategies aimed at converting casual riders into annual members.
+As part of the Google Data Analytics Certificate, as a junior data analyst, analysis was to be carried out on dataset for the last 12 months for the fictional bike-sharing company, Cyclistic. The project required to analyze how the annual members and casual riders use Cyclistic bikes differently. Based on the analysis, the goal is to design marketing strategies aimed at converting casual riders into annual members.
 
 ### Tools Used
 ___
